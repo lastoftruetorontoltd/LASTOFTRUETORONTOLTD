@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<THE LOT T.O — LAST OF TRUE TORONTO LTD.
+THE LOT T.O — LAST OF TRUE TORONTO LTD.™ 
 Adaptive Intelligence • Institutional Design • Myth‑Tech Systems
-Welcome to the official GitHub profile of THE LOT T.O — LAST OF TRUE TORONTO LTD., a Toronto‑based institutional design company building founder‑grade adaptive intelligence systems, cosmological brand architectures, and myth‑tech operational engines.
+Welcome to the official GitHub profile of THE LOT T.O — LAST OF TRUE TORONTO LTD.™, a Toronto‑based institutional design company building founder‑grade adaptive intelligence systems, cosmological brand architectures, and myth‑tech operational engines.
 
 Our flagship system:
 
