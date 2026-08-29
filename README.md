@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hiyea Folks,👋
 
 THE LOT T.O — LAST OF TRUE TORONTO LTD.™ 
 Adaptive Intelligence • Institutional Design • Myth‑Tech Systems
