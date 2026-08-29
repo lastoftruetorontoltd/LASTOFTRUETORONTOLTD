@@ -90,14 +90,28 @@ We build institutional systems that merge mythology, cosmology, operational inte
 This profile represents our public research, systems, and agentic frameworks.!--
 **lastoftruetorontoltd/LASTOFTRUETORONTOLTD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**************************************
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 @THE LOT T.O™ I’m currently working on:  
+AICE™ — The Adaptive Intelligence Canon Engine, a founder‑grade multi‑agent system built on Gemini 3.5 and Google Cloud.
+
+🌱 I’m currently learning:  
+Advanced agentic architectures, institutional design systems, and myth‑tech operational frameworks.
+
+👯 I’m looking to collaborate on:  
+Adaptive intelligence systems, cosmological brand architectures, and next‑generation institutional tooling.
+
+🤔 I’m looking for help with:  
+Scaling multi‑agent orchestration, expanding canon‑aligned knowledge systems, and refining adaptive forecasting loops.
+
+💬 Ask me about:  
+Institutional design, mythology engines, adaptive intelligence, and founder‑grade operational cognition.
+
+📫 How to reach me:  
+lastoftruetorontoltd@gmail.com
+
+😄 Pronouns:  
+She / Her
+
+⚡ Fun fact:  
+I build myth‑tech systems that merge cosmology, cognition, and institutional architecture into real‑time adaptive intelligence.
