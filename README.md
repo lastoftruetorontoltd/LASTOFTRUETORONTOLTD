@@ -111,7 +111,7 @@ Institutional design, mythology engines, adaptive intelligence, and founder‑gr
 lastoftruetorontoltd@gmail.com
 
 😄 Pronouns:  
-She / Her
+She / They
 
 ⚡ Fun fact:  
 I build myth‑tech systems that merge cosmology, cognition, and institutional architecture into real‑time adaptive intelligence.
