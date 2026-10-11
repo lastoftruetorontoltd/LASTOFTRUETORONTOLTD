@@ -86,10 +86,11 @@ Code
 curl -X POST https://YOUR_CLOUD_RUN_URL/run \
   -H "Content-Type: application/json" \
   -d '{"prompt": "Explain the AICE adaptive loop."}'
+
 About THE LOT T.O
 We build institutional systems that merge mythology, cosmology, operational intelligence, and adaptive design into unified founder‑grade architectures.
 
-This profile represents our public research, systems, and agentic frameworks.!
+[[[This profile represents our public research, systems, and agentic frameworks.]]]
 
 🐚512SHELLS🏁
 **************************************
