@@ -111,7 +111,7 @@ Scaling multi‑agent orchestration, expanding canon‑aligned knowledge systems
 Institutional design, mythology engines, adaptive intelligence, and founder‑grade operational cognition.
 
 📫 How to reach me:  
-lastoftruetorontoltd@gmail.com
+lastoftruetorontoltd@gmail.com || https://www.linkedin.com/in/shell-last-of-true-toronto-ltd/
 
 😄 Pronouns:  
 She / They
