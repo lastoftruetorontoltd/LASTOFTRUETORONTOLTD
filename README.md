@@ -89,9 +89,9 @@ curl -X POST https://YOUR_CLOUD_RUN_URL/run \
 About THE LOT T.O
 We build institutional systems that merge mythology, cosmology, operational intelligence, and adaptive design into unified founder‑grade architectures.
 
-This profile represents our public research, systems, and agentic frameworks.!--
-**lastoftruetorontoltd/LASTOFTRUETORONTOLTD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This profile represents our public research, systems, and agentic frameworks.!
 
+🐚512SHELLS🏁
 **************************************
 
 🔭 @THE LOT T.O™ I’m currently working on:  
